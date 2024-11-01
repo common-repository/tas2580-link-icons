@@ -1,0 +1,31 @@
+a.extlink{
+	background:transparent url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAAZklEQVQokcXQsQ2DUAyE4Q/EPpSIjlRkgGQaBqMDVsg+FDQhssjTo0L8lW3d2SdzNUWo51A/0GFAFWa/Jgp3FjR4RkGZuf5CjxFrShAj1Zjw/vbtmWE3/ZGL9EktyxmSHL90jHUDG8xlC1WZ/143AAAAAElFTkSuQmCC') 100% 50% no-repeat;
+	padding-right:15px;
+}
+a[href*="//www.amazon"]:hover{background:url('../icons/amazon-icon.png') 100% 50% no-repeat;}
+a[href*="//www.apple.com"]:hover{background:url('../icons/apple-icon.png') 100% 50% no-repeat;}
+a[href*="//www.baidu.com"]:hover{background:url('../icons/baidu-icon.png') 100% 50% no-repeat;}
+a[href*="//www.bing.com"]:hover{background:url('../icons/bing-icon.png') 100% 50% no-repeat;}
+a[href*="//www.blogger.com"]:hover{background:url('../icons/blogger-icon.png') 100% 50% no-repeat;}
+a[href*="//www.dropbox.com"]:hover{background:url('../icons/dropbox-icon.png') 100% 50% no-repeat;}
+a[href*="//www.ebay."]:hover{background:url('../icons/ebay-icon.png') 100% 50% no-repeat;}
+a[href*="//www.facebook.com"]:hover{background:url('../icons/facebook-icon.png') 100% 50% no-repeat;}
+a[href*="//www.flickr.com"]:hover{background:url('../icons/flickr-icon.png') 100% 50% no-repeat;}
+a[href*="//github.com"]:hover{background:url('../icons/github-icon.png') 100% 50% no-repeat;}
+a[href*="//www.google."]:hover{background:url('../icons/google-icon.png') 100% 50% no-repeat;}
+a[href*="//plus.google.com"]:hover{background:url('../icons/google-plus-icon.png') 100% 50% no-repeat;}
+a[href*="linkedin.com"]:hover{background:url('../icons/linkedin-icon.png') 100% 50% no-repeat;}
+a[href*="//www.paypal.com"]:hover{background:url('../icons/paypal-icon.png') 100% 50% no-repeat;}
+a[href*="pinterest.com"]:hover{background:url('../icons/pinterest-icon.png') 100% 50% no-repeat;}
+a[href*="//www.reddit.com"]:hover{background:url('../icons/reddit-icon.png') 100% 50% no-repeat;}
+a[href*="//soundcloud.com"]:hover{background:url('../icons/soundcloud-icon.png') 100% 50% no-repeat;}
+a[href*="//store.steampowered.com"]:hover{background:url('../icons/steam-icon.png') 100% 50% no-repeat;}
+a[href*="//www.tumblr.com"]:hover{background:url('../icons/tumblr-icon.png') 100% 50% no-repeat;}
+a[href*="//twitter.com"]:hover{background:url('../icons/twitter-icon.png') 100% 50% no-repeat;}
+a[href*="//vimeo.com"]:hover{background:url('../icons/vimeo-icon.png') 100% 50% no-repeat;}
+a[href*="wikipedia.org"]:hover{background:url('../icons/wikipedia-icon.png') 100% 50% no-repeat;}
+a[href*="wordpress.org"]:hover{background:url('../icons/wordpress-icon.png') 100% 50% no-repeat;}
+a[href*="//www.xing.com"]:hover{background:url('../icons/xing-icon.png') 100% 50% no-repeat;}
+a[href*="yahoo.com"]:hover{background:url('../icons/yahoo-icon.png') 100% 50% no-repeat;}
+a[href*="//www.youtube.com"]:hover{background:url('../icons/youtube-icon.png') 100% 50% no-repeat;}
+
